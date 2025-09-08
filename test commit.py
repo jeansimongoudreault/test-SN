@@ -1,1 +1,3 @@
-print ("tes")
+def afficher(test):
+    print(test)
+afficher("test")
